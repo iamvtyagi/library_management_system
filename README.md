@@ -570,7 +570,7 @@ make clean && make up
 
 ## 🤝 Contributing
 
-1. Fork [the repository](https://github.com/biswojit65/Library_Management_System)
+1. Fork [the repository](https://github.com/iamvtyagi/Library_Management_System)
 2. Create a feature branch: `git checkout -b feat/your-feature`
 3. Commit your changes: `git commit -m "feat: add your feature"`
 4. Push and open a pull request
@@ -587,6 +587,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 <div align="center">
 
-Built with ❤️ using Go, React, and PostgreSQL · [github.com/biswojit65/Library_Management_System](https://github.com/biswojit65/Library_Management_System)
+Built with ❤️ using Go, React, and PostgreSQL · [github.com/iamvtyagi/Library_Management_System](https://github.com/iamvtyagi/Library_Management_System)
 
 </div>
